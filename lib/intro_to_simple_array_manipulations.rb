@@ -7,7 +7,7 @@ end
 def using_pop(array)
   array.pop 
 end
-def pop_with_args(array, string1, string2)
+def pop_with_args(array)
   newarr = array.pop 
   newarr.pop 
 end
